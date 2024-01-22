@@ -1,3 +1,3 @@
 # assets
 
-https://chiba.dev/assets/README.md
+https://raw.githubusercontent.com/chibat/assets/main/README.md
